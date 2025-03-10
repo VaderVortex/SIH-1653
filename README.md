@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:
 ## Register Number: 212224040290
-## Name: Sanjeev Kumar S
+## Name: Sanjeev Kumar
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -14,10 +14,7 @@ Ministry of Defence
 Traditional Q&A-based interviews fail to assess real-world scientific problem-solving, adaptability, and collaboration. NeuroSync transforms recruitment into an interactive, AI-powered cognitive assessment platform, where candidates prove their abilities through immersive digital twin environments, real-time simulations, and AI-driven evaluation metrics.
 
 Key Differentiators:
-Real-World Problem Solving Over Theoretical Responses
-Adaptive AI-Driven Interviews Instead of Static Q&A
-Holistic Candidate Assessment with Cognitive & Biometric Data
-Bias-Free, Blockchain-Secured Hiring Process
+Real-World Problem Solving Over Theoretical Responses, Adaptive AI-Driven Interviews Instead of Static Q&A, Holistic Candidate Assessment with Cognitive & Biometric Data, Bias-Free and Blockchain-Secured Hiring Process
 
 
 ## Proposed Solution / Architecture Diagram
@@ -36,37 +33,50 @@ Candidate Journey:
 
 
 ## Use Cases
-Use Cases
 1️. Scientific Recruitment & Hiring
 AI-driven, bias-free evaluation of scientists & engineers applying for DRDO positions.
 Eliminates subjective interviewer biases using blockchain-secured assessment records.
+
 2️. Leadership & Team Assessment
 Evaluates leadership emergence in multi-candidate problem-solving simulations.
 Measures candidates' team collaboration efficiency in high-pressure defense scenarios.
+
 3️. Continuous Talent Evaluation for Promotions
 DRDO can use NeuroSync for scientific personnel promotions by tracking historical performance data & future impact predictions.
+
 4️. Research Aptitude & Innovation Potential Analysis
 Identifies interdisciplinary thinkers by testing candidates’ ability to synthesize seemingly unrelated scientific concepts.
 AI predicts long-term research potential & innovation impact.
+
 5️. Enhanced Interviewer Training & Performance Monitoring
 Interviewer assessment module trains DRDO recruiters by analyzing question quality, depth, & logical progression.
 Ensures structured, non-redundant questioning techniques.
 
 ## Technology Stack
 AI & Machine Learning:	TensorFlow, OpenAI API, IBM Watson
+
 NLP-Based Adaptive Questioning:	GPT-based NLP models, BERT
+
 Immersive Digital Twin Environments:	Unity, Unreal Engine (VR/AR simulations)
+
 Biometric Analysis:	OpenCV, Eye-tracking SDKs, Voice Stress Analysis APIs
+
 Blockchain Security:	Hyperledger Fabric, Ethereum Smart Contracts
+
 Cloud Infrastructure:	AWS, Azure (Scalable AI Model Hosting)
+
 Quantum-Inspired Scoring:	Quantum Probability Models (Qiskit, PennyLane)
 
 ## Dependencies
 Wearable Hardware: Smart glasses for eye-tracking, biometric sensors for cognitive load analysis
+
 High-Performance Computing (HPC) Infrastructure: Required for real-time AI processing
+
 Secure Cloud Storage: Data integrity and compliance with security protocols
+
 Regulatory Compliance: Ethical AI assessments, bias elimination strategies
+
 Cross-Disciplinary AI Integration: NLP, computer vision, and quantum-inspired models working seamlessly
 
-NeuroSync is a game-changer—transforming defense research hiring with an AI-powered, immersive, and bias-free assessment framework. Ready to deploy cutting-edge scientific talent evaluation for DRDO’s mission-critical workforce
+## NeuroSync is a game-changer—transforming defense research hiring with an AI-powered, immersive, and bias-free assessment framework. Ready to deploy cutting-edge scientific talent evaluation for DRDO’s mission-critical workforce
 
